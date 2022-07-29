@@ -1,14 +1,14 @@
-# 1.1 Writing a simple program
+# **1.1 Writing a simple program**
 
 Every C++ must have a **main** function. 
 
 **For example**
-
+```CPP
     int main ()
     {
         retun 0;
     }
-
+```
 A function definition has four elements:
 
 1. a return type,
